@@ -50,7 +50,7 @@ object VancedDownloader {
         vancedVersion = version ?: defPrefs.vancedVersion?.getLatestAppVersion(
             vancedVersions.value?.value ?: listOf("")
         )
-        themePath = "$baseInstallUrl/apks/v$vancedVersion/$variant/Theme"
+        themePath = "$baseInstallUrl/apks/v$vancedVersion/$variant/Theme" //Varient : nonroot or root
         hashUrl = "apks/v$vancedVersion/$variant/Theme/hash.json"
         arch = getArch()
         count = 0
@@ -72,7 +72,7 @@ object VancedDownloader {
             "stock" -> "$themePath/stock.apk"
             "dpi" -> "$themePath/dpi.apk"
             "lang" -> "$baseInstallUrl/apks/v$vancedVersion/$variant/Language/split_config.${lang[count]}.apk"
-            else -> throw NotImplementedError("This type of APK is NOT valid. What the hell did you even do?")
+            else -> throw NotImplementedError("This type of APK is NOT valid. What the hell did you even do?") //All cloned normaly
         }
 
         download(
