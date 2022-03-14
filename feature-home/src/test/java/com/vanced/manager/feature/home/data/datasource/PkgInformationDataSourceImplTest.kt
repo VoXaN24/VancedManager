@@ -1,4 +1,4 @@
-package com.vanced.manager.feature.home.data.datasource
+"package com.vanced.manager.feature.home.data.datasource
 
 /*
 internal class PkgInformationDataSourceImplTest : ShouldSpec() {
