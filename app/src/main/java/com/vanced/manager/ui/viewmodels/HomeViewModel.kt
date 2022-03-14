@@ -11,7 +11,7 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import dz.voxhost.vanced.manager.R
+import com.vanced.manager.R
 import com.vanced.manager.adapter.LinkAdapter.Companion.DISCORD
 import com.vanced.manager.adapter.LinkAdapter.Companion.REDDIT
 import com.vanced.manager.adapter.LinkAdapter.Companion.TELEGRAM

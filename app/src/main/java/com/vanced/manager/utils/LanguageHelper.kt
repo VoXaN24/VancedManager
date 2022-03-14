@@ -5,7 +5,7 @@ import android.content.res.Resources
 import android.os.Build
 import android.os.LocaleList
 import androidx.annotation.RequiresApi
-import dz.voxhost.vanced.manager.R
+import com.vanced.manager.R
 import java.util.*
 
 fun getLanguageFormat(context: Context, language: String): String {

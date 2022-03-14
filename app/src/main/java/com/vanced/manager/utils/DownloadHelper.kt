@@ -6,7 +6,7 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Build
 import androidx.core.content.FileProvider
-import dz.voxhost.vanced.manager.R
+import com.vanced.manager.R
 import com.vanced.manager.library.network.providers.createService
 import com.vanced.manager.utils.AppUtils.log
 import com.vanced.manager.utils.AppUtils.sendCloseDialog

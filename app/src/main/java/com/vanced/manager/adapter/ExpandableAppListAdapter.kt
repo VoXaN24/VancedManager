@@ -13,8 +13,8 @@ import androidx.fragment.app.FragmentActivity
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.card.MaterialCardView
-import dz.voxhost.vanced.manager.R
-import dz.voxhost.vanced.manager.databinding.ViewAppExpandableBinding
+import com.vanced.manager.R
+import com.vanced.manager.databinding.ViewAppExpandableBinding
 import com.vanced.manager.model.ButtonTag
 import com.vanced.manager.model.DataModel
 import com.vanced.manager.ui.dialogs.AppInfoDialog

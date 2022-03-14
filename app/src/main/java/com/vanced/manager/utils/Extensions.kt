@@ -14,7 +14,7 @@ import com.google.android.material.progressindicator.LinearProgressIndicator
 import com.google.android.material.radiobutton.MaterialRadioButton
 import com.topjohnwu.superuser.io.SuFile
 import com.topjohnwu.superuser.io.SuFileOutputStream
-import dz.voxhost.vanced.manager.R
+import com.vanced.manager.R
 import com.vanced.manager.utils.AppUtils.log
 import java.util.*
 
