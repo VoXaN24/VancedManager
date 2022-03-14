@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.messaging.FirebaseMessaging
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewNotificationSettingBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewNotificationSettingBinding
 import com.vanced.manager.model.NotifModel
 import com.vanced.manager.utils.defPrefs
 

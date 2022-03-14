@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:840099702732:android:ca65567b49f622bc359f69",
         "android_client_info": {
-          "package_name": "com.vanced.manager"
+          "package_name": "dz.voxhost.vanced.manager"
         }
       },
       "oauth_client": [

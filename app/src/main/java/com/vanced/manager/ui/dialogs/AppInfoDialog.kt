@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.annotation.DrawableRes
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogAppInfoBinding
+import dz.voxhost.vanced.manager.databinding.DialogAppInfoBinding
 
 class AppInfoDialog : BindingDialogFragment<DialogAppInfoBinding>() {
 

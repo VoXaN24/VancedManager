@@ -9,10 +9,10 @@ import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import android.widget.LinearLayout
 import android.widget.Toast
 import com.google.android.material.checkbox.MaterialCheckBox
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.DialogVancedLanguageSelectionBinding
+import dz.voxhost.vanced.manager.databinding.DialogVancedLanguageSelectionBinding
 import com.vanced.manager.ui.core.ThemedMaterialCheckbox
 import com.vanced.manager.utils.installPrefs
 import com.vanced.manager.utils.lang

@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.appcompat.content.res.AppCompatResources
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewSocialLinkBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewSocialLinkBinding
 import com.vanced.manager.model.LinkModel
 import com.vanced.manager.ui.viewmodels.HomeViewModel
 

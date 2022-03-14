@@ -12,12 +12,12 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.downloader.MicrogDownloader.downloadMicrog
 import com.vanced.manager.core.downloader.MusicDownloader.downloadMusic
 import com.vanced.manager.core.downloader.VancedDownloader.downloadVanced
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogAppDownloadBinding
+import dz.voxhost.vanced.manager.databinding.DialogAppDownloadBinding
 import com.vanced.manager.utils.*
 
 class AppDownloadDialog : BindingDialogFragment<DialogAppDownloadBinding>() {

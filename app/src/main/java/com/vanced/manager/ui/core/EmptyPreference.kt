@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.widget.FrameLayout
 import androidx.core.view.isGone
 import androidx.core.view.isVisible
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewPreferenceBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewPreferenceBinding
 
 class EmptyPreference @JvmOverloads constructor(
     context: Context,

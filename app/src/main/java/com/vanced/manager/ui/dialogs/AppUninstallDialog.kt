@@ -5,9 +5,9 @@ import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogAppUninstallBinding
+import dz.voxhost.vanced.manager.databinding.DialogAppUninstallBinding
 import com.vanced.manager.utils.PackageHelper
 
 class AppUninstallDialog : BindingDialogFragment<DialogAppUninstallBinding>() {

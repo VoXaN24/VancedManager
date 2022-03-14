@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.isMiuiOptimizationsEnabled
 import com.vanced.manager.utils.openUrl
 import com.vanced.manager.utils.showWithAccent

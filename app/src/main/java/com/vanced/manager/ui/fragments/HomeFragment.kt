@@ -15,14 +15,14 @@ import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.flexbox.FlexboxLayoutManager
 import com.google.android.flexbox.JustifyContent
-import com.vanced.manager.BuildConfig.VERSION_CODE
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.BuildConfig.VERSION_CODE
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.adapter.ExpandableAppListAdapter
 import com.vanced.manager.adapter.LinkAdapter
 import com.vanced.manager.adapter.SponsorAdapter
 import com.vanced.manager.core.ui.base.BindingFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.FragmentHomeBinding
+import dz.voxhost.vanced.manager.databinding.FragmentHomeBinding
 import com.vanced.manager.ui.dialogs.AppInfoDialog
 import com.vanced.manager.ui.dialogs.DialogContainer.installAlertBuilder
 import com.vanced.manager.ui.viewmodels.HomeViewModel

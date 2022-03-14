@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.animation.addListener
 import androidx.viewpager2.widget.ViewPager2
 import com.vanced.manager.adapter.WelcomePageAdapter
-import com.vanced.manager.databinding.ActivityWelcomeBinding
+import dz.voxhost.vanced.manager.databinding.ActivityWelcomeBinding
 import kotlin.math.abs
 
 class WelcomeActivity : AppCompatActivity() {

@@ -4,7 +4,7 @@ import android.app.Activity
 import android.content.res.Configuration
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 
 const val defAccentColor: Int = -13732865
 const val LIGHT = "Light"

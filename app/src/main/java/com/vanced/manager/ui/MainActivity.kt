@@ -16,9 +16,9 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.google.firebase.messaging.FirebaseMessaging
-import com.vanced.manager.BuildConfig.VERSION_CODE
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ActivityMainBinding
+import dz.voxhost.vanced.manager.BuildConfig.VERSION_CODE
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ActivityMainBinding
 import com.vanced.manager.ui.dialogs.DialogContainer
 import com.vanced.manager.ui.dialogs.ManagerUpdateDialog
 import com.vanced.manager.ui.dialogs.URLChangeDialog

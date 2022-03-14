@@ -3,7 +3,7 @@ package com.vanced.manager.core
 import android.app.Application
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.topjohnwu.superuser.Shell
-import com.vanced.manager.BuildConfig
+import dz.voxhost.vanced.manager.BuildConfig
 import com.vanced.manager.utils.loadJson
 import com.vanced.manager.utils.managerAccent
 import com.vanced.manager.utils.mutableAccentColor

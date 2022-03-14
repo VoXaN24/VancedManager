@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import androidx.core.content.res.ResourcesCompat
 import androidx.core.graphics.ColorUtils
 import com.google.android.material.button.MaterialButton
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.accentColor
 import com.vanced.manager.utils.lifecycleOwner
 

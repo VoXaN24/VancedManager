@@ -9,10 +9,10 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.fragment.app.viewModels
 import androidx.preference.PreferenceManager
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.FragmentAboutBinding
+import dz.voxhost.vanced.manager.databinding.FragmentAboutBinding
 import com.vanced.manager.ui.dialogs.AppInfoDialog
 import com.vanced.manager.ui.viewmodels.AboutViewModel
 import com.vanced.manager.utils.manager

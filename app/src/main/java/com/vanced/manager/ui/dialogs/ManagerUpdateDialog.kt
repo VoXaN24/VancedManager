@@ -12,10 +12,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.vanced.manager.BuildConfig.VERSION_CODE
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.BuildConfig.VERSION_CODE
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogManagerUpdateBinding
+import dz.voxhost.vanced.manager.databinding.DialogManagerUpdateBinding
 import com.vanced.manager.utils.DownloadHelper.downloadManager
 import com.vanced.manager.utils.applyAccent
 import com.vanced.manager.utils.currentDownload

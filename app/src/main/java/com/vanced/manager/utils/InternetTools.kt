@@ -13,7 +13,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.AppUtils.generateChecksum
 import com.vanced.manager.utils.AppUtils.log
 import kotlinx.coroutines.Dispatchers

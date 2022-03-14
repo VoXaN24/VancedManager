@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewAppCheckboxBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewAppCheckboxBinding
 import com.vanced.manager.model.SelectAppModel
 import com.vanced.manager.utils.enableMusic
 import com.vanced.manager.utils.enableVanced

@@ -7,10 +7,10 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.adapter.SelectAppsAdapter
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.databinding.DialogSelectAppsBinding
+import dz.voxhost.vanced.manager.databinding.DialogSelectAppsBinding
 
 class SelectAppsDialog : BindingBottomSheetDialogFragment<DialogSelectAppsBinding>() {
 

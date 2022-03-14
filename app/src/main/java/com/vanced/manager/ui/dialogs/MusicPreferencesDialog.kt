@@ -3,10 +3,10 @@ package com.vanced.manager.ui.dialogs
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.DialogMusicPreferencesBinding
+import dz.voxhost.vanced.manager.databinding.DialogMusicPreferencesBinding
 import com.vanced.manager.utils.*
 
 class MusicPreferencesDialog : BindingBottomSheetDialogFragment<DialogMusicPreferencesBinding>() {

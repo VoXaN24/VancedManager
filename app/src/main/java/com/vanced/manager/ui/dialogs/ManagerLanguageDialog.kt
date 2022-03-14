@@ -6,9 +6,9 @@ import android.view.ViewGroup
 import android.view.ViewGroup.LayoutParams.MATCH_PARENT
 import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import com.vanced.manager.BuildConfig.MANAGER_LANGUAGES
+import dz.voxhost.vanced.manager.BuildConfig.MANAGER_LANGUAGES
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.databinding.DialogManagerLanguageBinding
+import dz.voxhost.vanced.manager.databinding.DialogManagerLanguageBinding
 import com.vanced.manager.ui.core.ThemedMaterialRadioButton
 import com.vanced.manager.utils.checkedButtonTag
 import com.vanced.manager.utils.getLanguageFormat

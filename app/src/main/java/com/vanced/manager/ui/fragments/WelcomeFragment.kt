@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import com.vanced.manager.core.ui.base.BindingFragment
-import com.vanced.manager.databinding.FragmentWelcomeBinding
+import dz.voxhost.vanced.manager.databinding.FragmentWelcomeBinding
 import com.vanced.manager.ui.WelcomeActivity
 
 class WelcomeFragment : BindingFragment<FragmentWelcomeBinding>() {

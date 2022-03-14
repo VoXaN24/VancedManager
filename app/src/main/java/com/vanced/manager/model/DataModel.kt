@@ -7,7 +7,7 @@ import androidx.annotation.DrawableRes
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.*
 import com.beust.klaxon.JsonObject
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.CombinedLiveData
 import com.vanced.manager.utils.PackageHelper.isPackageInstalled
 

@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.lifecycle.lifecycleScope
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogCustomUrlBinding
+import dz.voxhost.vanced.manager.databinding.DialogCustomUrlBinding
 import com.vanced.manager.utils.*
 import kotlinx.coroutines.launch
 

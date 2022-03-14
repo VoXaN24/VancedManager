@@ -4,7 +4,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.analytics.ktx.logEvent
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.*
 import com.vanced.manager.utils.AppUtils.log
 import com.vanced.manager.utils.AppUtils.validateTheme

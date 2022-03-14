@@ -13,11 +13,11 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.google.firebase.perf.FirebasePerformance
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.adapter.GetNotifAdapter
 import com.vanced.manager.core.ui.base.BindingFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.FragmentSettingsBinding
+import dz.voxhost.vanced.manager.databinding.FragmentSettingsBinding
 import com.vanced.manager.ui.dialogs.*
 import com.vanced.manager.utils.accentColor
 import com.vanced.manager.utils.defAccentColor

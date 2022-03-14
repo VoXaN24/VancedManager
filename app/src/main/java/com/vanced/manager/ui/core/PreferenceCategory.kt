@@ -4,8 +4,8 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewPreferenceCategoryBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewPreferenceCategoryBinding
 
 class PreferenceCategory @JvmOverloads constructor(
     context: Context,

@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.google.android.material.radiobutton.MaterialRadioButton
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.databinding.DialogManagerThemeBinding
+import dz.voxhost.vanced.manager.databinding.DialogManagerThemeBinding
 import com.vanced.manager.utils.checkedButtonTag
 import com.vanced.manager.utils.managerTheme
 

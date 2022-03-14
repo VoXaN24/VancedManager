@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.widget.CompoundButton
 import android.widget.FrameLayout
 import androidx.core.content.edit
-import com.vanced.manager.R
-import com.vanced.manager.databinding.ViewPreferenceSwitchBinding
+import dz.voxhost.vanced.manager.R
+import dz.voxhost.vanced.manager.databinding.ViewPreferenceSwitchBinding
 import com.vanced.manager.utils.defPrefs
 
 class PreferenceSwitch @JvmOverloads constructor(

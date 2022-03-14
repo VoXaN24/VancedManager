@@ -7,7 +7,7 @@ import android.util.AttributeSet
 import androidx.appcompat.widget.SwitchCompat
 import androidx.core.graphics.ColorUtils
 import androidx.core.graphics.drawable.DrawableCompat
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.accentColor
 import com.vanced.manager.utils.lifecycleOwner
 

@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.vanced.manager.core.ui.base.BindingFragment
-import com.vanced.manager.databinding.FragmentDevSettingsBinding
+import dz.voxhost.vanced.manager.databinding.FragmentDevSettingsBinding
 import com.vanced.manager.ui.WelcomeActivity
 import com.vanced.manager.ui.dialogs.ManagerUpdateDialog
 import com.vanced.manager.ui.dialogs.URLChangeDialog

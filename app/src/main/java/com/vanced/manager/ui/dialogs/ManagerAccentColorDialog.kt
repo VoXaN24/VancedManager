@@ -12,9 +12,9 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.madrapps.pikolo.listeners.OnColorSelectionListener
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogManagerAccentColorBinding
+import dz.voxhost.vanced.manager.databinding.DialogManagerAccentColorBinding
 import com.vanced.manager.utils.*
 import com.vanced.manager.utils.AppUtils.log
 

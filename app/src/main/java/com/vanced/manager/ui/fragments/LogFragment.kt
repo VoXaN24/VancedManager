@@ -5,9 +5,9 @@ import android.text.TextUtils
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingFragment
-import com.vanced.manager.databinding.FragmentLogBinding
+import dz.voxhost.vanced.manager.databinding.FragmentLogBinding
 import com.vanced.manager.utils.AppUtils.logs
 import java.io.File
 import java.io.FileWriter

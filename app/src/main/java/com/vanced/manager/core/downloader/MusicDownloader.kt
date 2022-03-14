@@ -1,7 +1,7 @@
 package com.vanced.manager.core.downloader
 
 import android.content.Context
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.utils.*
 import com.vanced.manager.utils.AppUtils.musicRootPkg
 import com.vanced.manager.utils.AppUtils.validateTheme

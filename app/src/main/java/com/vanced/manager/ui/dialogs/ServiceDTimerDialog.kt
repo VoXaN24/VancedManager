@@ -5,9 +5,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.core.content.edit
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingDialogFragment
-import com.vanced.manager.databinding.DialogServicedTimerBinding
+import dz.voxhost.vanced.manager.databinding.DialogServicedTimerBinding
 import com.vanced.manager.utils.PackageHelper
 import com.vanced.manager.utils.PackageHelper.getPackageDir
 import com.vanced.manager.utils.PackageHelper.getPkgNameRoot

@@ -8,9 +8,9 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.topjohnwu.superuser.Shell
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingFragment
-import com.vanced.manager.databinding.FragmentGrantRootBinding
+import dz.voxhost.vanced.manager.databinding.FragmentGrantRootBinding
 import com.vanced.manager.ui.MainActivity
 
 class GrantRootFragment : BindingFragment<FragmentGrantRootBinding>() {

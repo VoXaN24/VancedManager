@@ -6,10 +6,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.edit
 import com.google.android.material.radiobutton.MaterialRadioButton
-import com.vanced.manager.R
+import dz.voxhost.vanced.manager.R
 import com.vanced.manager.core.ui.base.BindingBottomSheetDialogFragment
 import com.vanced.manager.core.ui.ext.showDialog
-import com.vanced.manager.databinding.DialogBottomRadioButtonBinding
+import dz.voxhost.vanced.manager.databinding.DialogBottomRadioButtonBinding
 import com.vanced.manager.ui.core.ThemedMaterialRadioButton
 import com.vanced.manager.utils.checkedButtonTag
 import com.vanced.manager.utils.defPrefs
