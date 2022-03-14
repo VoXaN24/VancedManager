@@ -38,7 +38,7 @@ Pull Requests should be made to the [Dev](https://github.com/voxan24/VancedManag
 
 <div>
 
-[![Build](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml)
+[![Build](https://github.com/voxan24/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/voxan24/VancedManager/actions/workflows/debug.yml)
 
 </div>
 
