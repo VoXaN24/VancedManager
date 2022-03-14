@@ -3,7 +3,7 @@ package com.vanced.manager.ui.core
 import android.content.Context
 import android.util.AttributeSet
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import dz.voxhost.vanced.manager.R
+import com.vanced.manager.R
 import com.vanced.manager.utils.accentColor
 
 class ThemedSwipeRefreshlayout @JvmOverloads constructor(
