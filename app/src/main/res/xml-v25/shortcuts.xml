@@ -9,9 +9,9 @@
         android:shortcutShortLabel="@string/title_settings">
 
         <intent
-            android:action="com.vanced.manager.OPEN_SETTINGS"
-            android:targetClass="com.vanced.manager.ui.MainActivity"
-            android:targetPackage="com.vanced.manager"
+            android:action="dz.voxhost.vanced.manager.OPEN_SETTINGS"
+            android:targetClass="dz.voxhost.vanced.manager.ui.MainActivity"
+            android:targetPackage="dz.voxhost.vanced.manager"
             android:data="vncdmngr://open_settings_fragment"/>
 
     </shortcut>
@@ -23,9 +23,9 @@
         android:shortcutShortLabel="@string/title_about">
 
         <intent
-            android:action="com.vanced.manager.OPEN_INSTALL"
-            android:targetClass="com.vanced.manager.ui.MainActivity"
-            android:targetPackage="com.vanced.manager"
+            android:action="dz.voxhost.vanced.manager.OPEN_INSTALL"
+            android:targetClass="dz.voxhost.vanced.manager.ui.MainActivity"
+            android:targetPackage="dz.voxhost.vanced.manager"
             android:data="vncdmngr://open_about_fragment"/>
 
     </shortcut>
