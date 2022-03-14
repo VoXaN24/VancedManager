@@ -13,11 +13,11 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "com.vanced.manager"
+        applicationId = "dz.voxhost.vanced.manager"
         minSdk = 21
         targetSdk = 31
-        versionCode = 262
-        versionName = "2.6.2 (Crimson)"
+        versionCode = 263
+        versionName = "2.6.3 (Lucas)"
 
         vectorDrawables {
             useSupportLibrary = true
